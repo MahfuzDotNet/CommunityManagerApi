@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "outDir": "./dist",
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "allowJs": true,
+        "target": "es6",
+        "allowSyntheticDefaultImports": true
+  
+    },
+    "include": [
+        "./src/**/*",
+        "server.tsx"
+    ]
+  }
